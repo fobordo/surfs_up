@@ -6,9 +6,9 @@ The purpose of the Surfs Up Analysis was to analyze weather data for the island 
 ## Results
 After filtering the Measurement table in the `hawaii.sqlite` database on temperatures for the months of June and December, the following statistics were calculated:
 
-![June Temps Statistics](/Resources/june_temps_statistics.ext)
+![June Temps Statistics](/Resources/june_temps_statistics.png)
 
-![Dec Temps Statistics](/Resources/dec_temps_statistics.ext)
+![Dec Temps Statistics](/Resources/dec_temps_statistics.png)
 
 The three key differences in weather between June and December were as follows:
 * The average temperature in June was 74.9 degrees, while the average temperature in December was 71.04 degrees. 
